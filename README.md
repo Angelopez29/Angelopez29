@@ -9,7 +9,7 @@
 
 ### Sobre mi:
 
-:raising_hand: Nombre completo es Angélica Marilyn López Yujra
+:raising_hand: Mi nombre completo es Angélica Marilyn López Yujra
 
 :woman: Tengo 21 años, nací un 29 de enero del 2002
 
