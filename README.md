@@ -20,6 +20,8 @@
 :100: De todas las metas que logré cumplir en el colegio, de la que más estoy orgullosa fue conseguir una Beca Completa para estudiar mi carrera en la UCB 
 
 :bar_chart: Decidí estudiar Ing. Financiera porque soy amante de los números, me gusta la parte de empresas, riesgos y volatilidades.
+ 
+:page_with_curl: Actualmente soy presidenta de la Sociedad Científica Estudiantil ALPHA SOCIEM de la UCB sede Tarija
 
 :computer: Cuando salga de la Universidad, me gustaría aplicar mis conocimientos de programación para crear un software que ayude a calcular más rápido el riesgo de las empresas y sus volatilidades
 
